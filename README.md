@@ -1,6 +1,6 @@
-## Hi there 👋
 
 <!--
+## Hi there 👋
 **DaiNef163/DaiNef163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Nguyen Hoai Nam! 👋
 
-✨ **A Software Engineer based in Da Nang City, Viet Nam** ✨  
+✨ A final-year student at Duy Tan University transitioning into Software Engineering ✨
 
 ---
 
@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 #### Tools & Platforms  
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 #### Frameworks & Libraries  
