@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Nguyen Hoai Nam! 👋
 
-✨ A final-year student at Duy Tan University transitioning into Software Engineering ✨
+✨ A final-year Software Engineering student at Duy Tan University ✨
 
 ---
 
