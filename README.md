@@ -61,21 +61,7 @@ Here are some ideas to get you started:
 
 ### Projects  
 
-#### 🌐 **[Portfolio Website](https://github.com/yourusername/portfolio)**  
-A personal website showcasing my projects, skills, and experience.  
-- Built with: React, Tailwind CSS, and Node.js  
-- Features: Interactive design, responsive UI, and integration with GitHub and LinkedIn.
-
-#### 📊 **[Real-Time Analytics Dashboard](https://github.com/yourusername/analytics-dashboard)**  
-A web application for monitoring and visualizing real-time data streams.  
-- Built with: React, Node.js, and MongoDB  
-- Features: WebSocket integration for live updates, user authentication, and custom data visualization.
-
-#### 🛒 **[E-Commerce API](https://github.com/yourusername/ecommerce-api)**  
-A backend API for managing products, orders, and users in an e-commerce platform.  
-- Built with: Golang, Echo, MySQL, and Docker  
-- Features: RESTful design, JWT authentication, and scalable architecture.
-
+...
 ---
 
 ### Connect with Me  
