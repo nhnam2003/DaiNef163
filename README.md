@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)  
 
 #### Frameworks & Libraries  
-![Go Echo](https://img.shields.io/badge/Echo-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
